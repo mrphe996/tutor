@@ -1,18 +1,18 @@
 export default [
   {
     path: 'banner',
-    label: 'Home',
+    label: 'Giới thiệu',
   },
   {
     path: 'courses',
-    label: 'Courses',
+    label: 'Khoá học',
   },
   {
     path: 'pricing',
-    label: 'Pricing',
+    label: 'Quyền lợi',
   },
   {
     path: 'faq',
-    label: 'Faq',
+    label: 'Hỏi đáp',
   },
 ];

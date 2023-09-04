@@ -13,19 +13,19 @@ const CtaThree = () => {
               <Box sx={styles.ctaThree.content}>
                 <BlockTitle
                   sx={styles.ctaThree.blockTitle}
-                  tagline="Core features"
+                  tagline="Những con số biết nói"
                   heading={
-                    'Smart Jackpots \n that you may love this \n anytime & anywhere'
+                    'Tutor+ đã hỗ trợ \n 306 học sinh \n hoàn thành mục tiêu \n trong năm 2022/2023'
                   }
                 />
                 <Text as="p">
                   {
-                    'Get your tests delivered at let home collect sample \n from the victory of the managments that supplies \n best design system guidelines ever. Get your tests \n delivered at let home collect sample.'
+                    'Chúng tôi luôn đồng hành và hỗ trợ học sinh \n cho đến khi tiến bộ và các bạn có thể tự nguyên cứu \n các bài thi và tìm ra được hứng thú tự học phù hợp bản thân \n bằng phương pháp bản quyền tại TUTOR+'
                   }
                 </Text>
                 <Link
                   path="#"
-                  label="Explore details"
+                  label="Tìm hiểu thêm về phương pháp"
                   variant="buttons.primary"
                 />
               </Box>
@@ -35,30 +35,30 @@ const CtaThree = () => {
             <Grid sx={styles.ctaThree.grid}>
               <Box sx={styles.ctaThree.box}>
                 <Heading as="h3" sx={styles.ctaThree.color1}>
-                  80K+
+                  90%
                 </Heading>
-                <Text as="p">{'We have more than \n students'}</Text>
+                <Text as="p">{'Học sinh đạt \n A/A*'}</Text>
               </Box>
               <Box sx={styles.ctaThree.box}>
                 <Heading sx={styles.ctaThree.color2} as="h3">
-                  150+
+                  100% 
                 </Heading>
                 <Text as="p">
-                  {'Free online tutorials \n videos avaialble'}
+                  {'Trúng tuyển đại học,\n thi sang hệ Cambridge \n thành công '}
                 </Text>
               </Box>
               <Box sx={styles.ctaThree.box}>
                 <Heading sx={styles.ctaThree.color3} as="h3">
-                  90+
+                  303
                 </Heading>
-                <Text as="p">{'Daily updated blog \n post maintain'}</Text>
+                <Text as="p">{'học sinh trong tổng 306 \n du học nước ngoài \n và trong nước \n 2022 và 2023'}</Text>
               </Box>
               <Box sx={styles.ctaThree.box}>
                 <Heading sx={styles.ctaThree.color4} as="h3">
-                  & 3M
+                  65
                 </Heading>
                 <Text as="p">
-                  {'Job posted everydays \n with  qualification'}
+                  {'Học sinh đạt A/A* \n năm học 2022 và 2023'}
                 </Text>
               </Box>
             </Grid>

@@ -44,7 +44,7 @@ const MobileDrawer = () => {
 
           <Box sx={styles.menuFooter}>
             <Button variant="primary" sx={styles.button}>
-              Try for Free
+              Đăng ký khoá học
             </Button>
           </Box>
         </Box>

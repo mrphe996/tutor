@@ -9,7 +9,7 @@ const workflowData = [
   {
     title: 'Set disbursement Instructions',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Dành cho các bạn học sinh đang học tại trường quốc tế,trường chuyên và học ngoài thi chương trình IGCSE',
   },
   {
     title: 'Assembly retrieves funds from your account',

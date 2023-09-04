@@ -6,9 +6,9 @@ import PopularCard from 'components/popular-card';
 const popularCourseData = [
   {
     title:
-      'Professional graphic design tutorial full course with exercise file',
+      'Ôn luyện IGCSE1 và IGCSE2 môn Math và Science CIE năm 2023-2024',
     reviewCount: '5.0 (392 reviews)',
-    watchCount: '2,538 students watched',
+    watchCount: 'Đã có 98 students đăng ký',
     videoLink: 'L9jU-IIN0ng',
     starCount: 5,
     expanded: true,
@@ -101,8 +101,8 @@ const PopularCourse = () => {
       <Container>
         <BlockTitle
           sx={styles.popularCourse.blockTitle}
-          tagline="Quality features"
-          heading="Popular Designing Course"
+          tagline="Các khoá học chất lượng"
+          heading="Khoá học Cambridge"
         />
         {popularCourseData.map((course, index) => (
           <Box sx={styles.popularCourse.col} key={index}>
